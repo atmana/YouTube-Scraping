@@ -10,8 +10,10 @@ Hasil model training --> classifier.pickle
 
 
 Sample Output :
-Title	viewCount	commentCount	likeCount	dislikeCount	favoriteCount	videoId	channelId	categoryId	URL	positive (%)	negative (%)
-TELKOMSEL OPOK,HTTP INJECTOR TES LIMIT ALL TKP..!!!	3300	69	32	3	0	9amVk5ISI1M	UCxEyBff9TVgXPH_F9W9h3fQ	28	https://www.youtube.com/watch?v=9amVk5ISI1M	55	44
-TELKOMSEL OPOK LANCAR JAYA TERBARU DESEMBER AKTIF SAMPAI 2020	3620	173	34	4	0	2C7lYB7slow	UCogULQdQ7btpKWn6hNGpLyg	27	https://www.youtube.com/watch?v=2C7lYB7slow	31	68
-30 GB 10rb - Paket Internet Murah Telkomsel	13182	98	545	74	0	djRU4I1mHFU	UC7M1uQ8jyaw80a_3LSSsQow	24	https://www.youtube.com/watch?v=djRU4I1mHFU	87	12
-Cara Baru Tembak Kuota OMG 5 gb Rp 10.000 + Kuota 1 GB Rp 10 Rupiah	5492	109	130	4	0	vantJjBXuks	UCQncgrC8SUXDBavN4KtUQ0g	26	https://www.youtube.com/watch?v=vantJjBXuks	58	41
+Title	viewCount	commentCount	likeCount	dislikeCount	URL	positive (%)	negative (%)
+TELKOMSEL OPOK LANCAR JAYA TERBARU DESEMBER AKTIF SAMPAI 2020	3620	173	34	4	https://www.youtube.com/watch?v=2C7lYB7slow	31	68
+Cara Baru Tembak Kuota OMG 5 gb Rp 10.000 + Kuota 1 GB Rp 10 Rupiah	5492	109	130	4	https://www.youtube.com/watch?v=vantJjBXuks	58	41
+Paket internet murah Telkomsel	72629	702	1977	129	https://www.youtube.com/watch?v=7hmtK_02ok8	86	14
+Paket internet murah Telkomsel 10gb	45140	425	1261	88	https://www.youtube.com/watch?v=NpahSYCJl-g	76	24
+Paket internet murah Telkomsel 30gb	26135	744	1202	71	https://www.youtube.com/watch?v=zC1LNq3Nq90	93	7
+Paket Internet Telkomsel Murah 10Ribu 10Giga Dan Aktif 30 Hari ðŸ‘‰ OMG âœ“ Terbaru	13610	480	203	18	https://www.youtube.com/watch?v=Aw7qy0f6GHI	50	50
