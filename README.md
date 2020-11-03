@@ -2,10 +2,15 @@ Melakukan scraping video trick Internet gratis/murah yang paling update dan memi
 Dari informasi text comment pada video, dilakukan analisis secara otomatis berdasarkan model data yang sudah ditraining menggunakan Naive Bayes Classifier, sehingga dapat disimpulkan diawal trick video tersebut working atau tidak.
 
 Script utama yang dirunning untuk manjalankan seluruh fungsi --> Youtube_by_Keyword.py 
+
 Menjalankan fungi untuk sentiment analis dari comment di video --> sentimentYouTube.py
+
 Mengambil text comment dari video --> comment_extract.py
+
 Proses model training untuk menjalankan analisa sentimen dari comment di video --> training_classifier.py
+
 Data set training --> emoji.txt, negative.txt, positive.txt
+
 Hasil model training --> classifier.pickle
 
 
